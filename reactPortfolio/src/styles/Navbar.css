@@ -1,0 +1,17 @@
+.nav {
+    background: #002566;
+    height: 150px;
+}
+
+.nav a {
+    color: white;
+    font-size: 3rem;
+    margin: 0;
+    padding-top: 75px;
+    text-align: right;
+}
+
+.nav navButton{
+    background: #002566;
+    color: white;
+}
